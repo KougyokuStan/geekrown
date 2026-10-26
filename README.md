@@ -1,2 +1,2 @@
 # geekrown
-Geek and Crown manga reader repository
+Geekrown manga reader repository
